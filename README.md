@@ -45,8 +45,7 @@ print(count)
 print(f"\nTotal word count: {total_count}")
 ```
 ### OUTPUT:
-![image](https://github.com/Kesavasai20/command-line-arguments-to-count-word/assets/138849303/ac3edc46-104a-4704-9f01-cc00e4a7ea55)
-
+![image](https://github.com/Kesavasai20/command-line-arguments-to-count-word/assets/138849303/872dc9ff-8689-4b4a-a8e5-b0762ac9980f)
 
 ## RESULT:
 Thus the program is written to find the word count from the contents of a file using command line arguments.
