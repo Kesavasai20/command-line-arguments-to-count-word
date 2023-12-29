@@ -25,8 +25,7 @@ Iterate the list of lines and increment the value of variable (word) each time.
 ## Step 6:
 Run the program to determine the number of words in the file created.
 ## PROGRAM:
-```
-
+```python
 '''Program for getting the word count from the contents of a file using command line arguments
 Developed by: K Kesava sai
 Reference number: 212223230105
